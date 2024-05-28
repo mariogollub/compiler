@@ -1,0 +1,2 @@
+# Clang Static Analyzer
+https://clang-analyzer.llvm.org/
