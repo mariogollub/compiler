@@ -3,3 +3,6 @@ https://clang-analyzer.llvm.org/
 
 # C semantics
 https://github.com/kframework/c-semantics
+
+# LLVM Language Reference Manual
+https://llvm.org/docs/LangRef.html
