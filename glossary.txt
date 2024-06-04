@@ -1,0 +1,5 @@
+# Gloassry
+
+assumed absence of UB = assumed absence of undefined behaviour
+
+UB = undefined behaviour
